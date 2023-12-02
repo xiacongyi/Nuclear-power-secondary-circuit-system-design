@@ -6,7 +6,6 @@ name:Congyi Xia
 time:2022.06.15
 """
 
-import numpy as np
 from iapws import IAPWS97 as ip
 import math
 
