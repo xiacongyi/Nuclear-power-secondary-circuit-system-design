@@ -304,7 +304,7 @@ while True:
         print("\033[0;35mG_les2\033[0m" + " = " + str(G_les2))
         print("\033[0;35mG_les3\033[0m" + " = " + str(G_les3))
         print("\033[0;35mG_les4\033[0m" + " = " + str(G_les4))
-        print("------------------ 分 割 线 ---------------------")
+        print("------------------ * * * ---------------------")
 
         if abs((G_cd_new - G_cd) / G_cd) < 0.01:
             break
